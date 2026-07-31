@@ -107,3 +107,8 @@ nav:
       - Blackjack - What to Steal from Angela: learning-notes/blackjack-what-to-steal.md
       - Make It Work, Then Make It Nice: learning-notes/make-it-work-then-make-it-nice.md
       - Git Notes: learning-notes/git-notes.md
+
+# Exclude the sj-theme submodule's own markdown (its README) from the built site.
+# The submodule lives under docs/, but only its extra.css / extra.js are real assets.
+exclude_docs: |
+  sj-theme/*.md
