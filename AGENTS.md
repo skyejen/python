@@ -6,6 +6,11 @@ This site shares its theme with the sibling repos `cybersecurity` and `skyejen.g
 `cybersecurity` is where the theme and most conventions originate, so if something here looks
 thin, check that repo's `AGENTS.md` before inventing a new approach.
 
+> **Theme JS is shared — don't edit it here.** `extra.js` is not in this repo; it comes
+> from the **sj-theme** submodule at `docs/sj-theme/`. Edit the theme in the sj-theme repo,
+> never inside `docs/sj-theme/` (edits there are detached and get lost). Pull updates with
+> `git submodule update --remote docs/sj-theme`. See sj-theme's README.
+
 ## Golden rules
 
 1. **Reuse before building.** Grep for the existing pattern first (`sj-card`, an existing
