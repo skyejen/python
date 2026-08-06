@@ -1,34 +1,27 @@
-# :material-language-python: 100 Days of Python
+---
+template: home.html
+---
 
-Working through [Angela Yu's course](https://www.udemy.com/course/100-days-of-code/). Angela is an exceptional teacher and I adore her approach. The course is very diverse and challenging, but Angela makes me feel like she is right beside me supporting me through every hurdle.
+# :material-language-python: Python
 
-I originally started this course a while back, got to around 25%, really enjoyed it, but then switched to other things. I'm coming back having done CS50x, nearly two years in QA and tech ops, and a few months of cybersecurity on TryHackMe, and I feel noticeably more confident tackling problems now, even when they take time. I've reset to Day 1 as a deliberate push into SDET / QA automation (or other adventures). Writing Python independently is the goal.
+Python Hub: the things I've built, and the courses/tasks I'm working through to keep levelling up. Split into Portfolio and Learning.
 
 ---
 
-## Field Notes
-
 <div class="sj-cards" markdown>
 
-<a class="sj-card" href="days/" markdown="span">
-<span class="sj-card-icon">:material-calendar-check-outline:</span>
-<span class="sj-card-title">The Days</span>
-<span class="sj-card-desc" title="The exercises, grouped by day.">The exercises, grouped by day.</span>
-<span class="sj-card-meta">in progress</span>
+<a class="sj-card" href="portfolio/" markdown="span">
+<span class="sj-card-icon">:material-briefcase-variant-outline:</span>
+<span class="sj-card-title">Portfolio</span>
+<span class="sj-card-desc" title="Apps and projects I've built in Python.">Apps and projects I've built in Python.</span>
+<span class="sj-card-meta">projects</span>
 </a>
 
-<a class="sj-card" href="days/day-11-blackjack/" markdown="span">
-<span class="sj-card-icon">:material-cards-playing-outline:</span>
-<span class="sj-card-title">Blackjack</span>
-<span class="sj-card-desc" title="The first capstone - a full game of blackjack, aces and all.">The first capstone - a full game of blackjack, aces and all.</span>
-<span class="sj-card-meta">day 11 - capstone</span>
-</a>
-
-<a class="sj-card" href="learning-notes/" markdown="span">
-<span class="sj-card-icon">:material-notebook-outline:</span>
-<span class="sj-card-title">Learning Notes</span>
-<span class="sj-card-desc" title="Concepts and the odd hard-won lesson from the exercises.">Concepts and the odd hard-won lesson from the exercises (AI-assisted summary).</span>
-<span class="sj-card-meta">ai-assisted</span>
+<a class="sj-card" href="learning/" markdown="span">
+<span class="sj-card-icon">:material-book-open-variant:</span>
+<span class="sj-card-title">Learning</span>
+<span class="sj-card-desc" title="Courses, standalone projects, write-ups">Courses, standalone projects, write-ups</span>
+<span class="sj-card-meta">Courses &amp; notes</span>
 </a>
 
 </div>

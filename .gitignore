@@ -16,3 +16,6 @@ venv/
 
 # MkDocs build output (generated in CI)
 site/
+
+# Work in progress, not ready to publish (remove when day 16 goes live)
+day_016/
