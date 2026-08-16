@@ -3,5 +3,5 @@
 _Day 5 - sum every number from 1 to 100._{ .sj-lead }
 
 ```python
---8<-- "day_005/gauss_challenge.py"
+--8<-- "docs/learning/100-days-of-python/code/day_005/gauss_challenge.py"
 ```

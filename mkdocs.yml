@@ -81,40 +81,40 @@ nav:
     - learning/index.md
     - 100 Days of Python:
       - Exercises and Projects:
-        - days/index.md
+        - learning/100-days-of-python/index.md
         - Day 2:
-          - Tip Calculator: days/day-02-tip-calculator.md
+          - Tip Calculator: learning/100-days-of-python/day-02-tip-calculator.md
         - Day 3:
-          - Introducing the Modulo: days/day-03-introducing-the-modulo.md
-          - Pizza Order Delivery: days/day-03-pizza-order-delivery.md
-          - Treasure Island: days/day-03-treasure-island.md
+          - Introducing the Modulo: learning/100-days-of-python/day-03-introducing-the-modulo.md
+          - Pizza Order Delivery: learning/100-days-of-python/day-03-pizza-order-delivery.md
+          - Treasure Island: learning/100-days-of-python/day-03-treasure-island.md
         - Day 4:
-          - Rock Paper Scissors: days/day-04-rock-paper-scissors.md
+          - Rock Paper Scissors: learning/100-days-of-python/day-04-rock-paper-scissors.md
         - Day 5:
-          - FizzBuzz: days/day-05-fizzbuzz.md
-          - Gauss Challenge: days/day-05-gauss-challenge.md
-          - Highest Score: days/day-05-highest-score.md
-          - Password Generator: days/day-05-password-generator.md
+          - FizzBuzz: learning/100-days-of-python/day-05-fizzbuzz.md
+          - Gauss Challenge: learning/100-days-of-python/day-05-gauss-challenge.md
+          - Highest Score: learning/100-days-of-python/day-05-highest-score.md
+          - Password Generator: learning/100-days-of-python/day-05-password-generator.md
         - Day 11:
-          - Blackjack: days/day-11-blackjack.md
+          - Blackjack: learning/100-days-of-python/day-11-blackjack.md
         - Day 12:
-          - Is Prime: days/day-12-is-prime.md
-          - Number Guessing Game: days/day-12-number-guessing-game.md
+          - Is Prime: learning/100-days-of-python/day-12-is-prime.md
+          - Number Guessing Game: learning/100-days-of-python/day-12-number-guessing-game.md
         - Day 14:
-          - Higher Lower: days/day-14-higher-lower-game.md
+          - Higher Lower: learning/100-days-of-python/day-14-higher-lower-game.md
         - Day 15:
-          - Coffee Machine: days/day-15-coffee-machine.md
+          - Coffee Machine: learning/100-days-of-python/day-15-coffee-machine.md
         - Day 16:
-          - Coffee Machine (OOP): days/day-16-coffee-machine-oop.md
+          - Coffee Machine (OOP): learning/100-days-of-python/day-16-coffee-machine-oop.md
       - Learning Notes:
-        - learning-notes/index.md
+        - learning/100-days-of-python/notes/index.md
         - Learning Notes (AI&#8209;assisted):
-          - Loop Control: learning-notes/loop-control.md
-          - File Naming: learning-notes/file-naming.md
-          - Never Walk a List You're Changing: learning-notes/never-walk-a-list.md
-          - Blackjack - What to Steal from Angela: learning-notes/blackjack-what-to-steal.md
-          - Make It Work, Then Make It Nice: learning-notes/make-it-work-then-make-it-nice.md
-          - Git Notes: learning-notes/git-notes.md
+          - Loop Control: learning/100-days-of-python/notes/loop-control.md
+          - File Naming: learning/100-days-of-python/notes/file-naming.md
+          - Never Walk a List You're Changing: learning/100-days-of-python/notes/never-walk-a-list.md
+          - Blackjack - What to Steal from Angela: learning/100-days-of-python/notes/blackjack-what-to-steal.md
+          - Make It Work, Then Make It Nice: learning/100-days-of-python/notes/make-it-work-then-make-it-nice.md
+          - Git Notes: learning/100-days-of-python/notes/git-notes.md
 
 # Exclude the sj-theme submodule's own markdown (its README) from the built site.
 # The submodule lives under docs/, but only its extra.css / extra.js are real assets.

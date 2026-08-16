@@ -8,23 +8,23 @@ _Day 16 - the same coffee machine as [Day 15](day-15-coffee-machine.md), rebuilt
 ## main.py - running the machine
 
 ```python
---8<-- "day_016/main.py"
+--8<-- "docs/learning/100-days-of-python/code/day_016/main.py"
 ```
 
 ## Menu (provided)
 
 ```python
---8<-- "day_016/menu.py"
+--8<-- "docs/learning/100-days-of-python/code/day_016/menu.py"
 ```
 
 ## Coffee maker (provided)
 
 ```python
---8<-- "day_016/coffee_maker.py"
+--8<-- "docs/learning/100-days-of-python/code/day_016/coffee_maker.py"
 ```
 
 ## Money machine (provided)
 
 ```python
---8<-- "day_016/money_machine.py"
+--8<-- "docs/learning/100-days-of-python/code/day_016/money_machine.py"
 ```

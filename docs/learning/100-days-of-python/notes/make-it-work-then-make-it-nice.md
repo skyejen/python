@@ -1,3 +1,6 @@
+!!! note "AI-assisted"
+    Drafted with AI while I studied - tagged so it's clear it's a study aid, not my own writing.
+
 # Make it work, then make it nice (Day 12: number guessing game)
 
 > I mostly solved the number guessing game, then spent far longer than the code deserved fighting my own head. The bugs were never hard. What was hard was noticing *why* I kept re-introducing them. This note is about that, not about the loop.

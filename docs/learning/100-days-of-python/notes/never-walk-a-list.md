@@ -1,3 +1,6 @@
+!!! note "AI-assisted"
+    Drafted with AI while I studied - tagged so it's clear it's a study aid, not my own writing.
+
 # Never walk a list you're changing (and everything the Blackjack ace bug taught me)
 
 > From the Day 11 Blackjack capstone. This one bug opened up four real lessons, so they all live here.

@@ -5,11 +5,11 @@ _Day 15 - the first intermediate project, a working coffee machine that checks r
 ## The machine
 
 ```python
---8<-- "day_015/coffee_machine.py"
+--8<-- "docs/learning/100-days-of-python/code/day_015/coffee_machine.py"
 ```
 
 ## The menu and starting resources
 
 ```python
---8<-- "day_015/menu.py"
+--8<-- "docs/learning/100-days-of-python/code/day_015/menu.py"
 ```

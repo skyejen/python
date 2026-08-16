@@ -8,21 +8,21 @@ I originally started this course a while back, got to around 25%, really enjoyed
 
 <div class="sj-cards" markdown>
 
-<a class="sj-card" href="../days/" markdown="span">
+<a class="sj-card" href="100-days-of-python/" markdown="span">
 <span class="sj-card-icon">:material-calendar-check-outline:</span>
 <span class="sj-card-title">The Days</span>
 <span class="sj-card-desc" title="The exercises, grouped by day.">The exercises, grouped by day.</span>
 <span class="sj-card-meta">in progress</span>
 </a>
 
-<a class="sj-card" href="../days/day-11-blackjack/" markdown="span">
+<a class="sj-card" href="100-days-of-python/day-11-blackjack/" markdown="span">
 <span class="sj-card-icon">:material-cards-playing-outline:</span>
 <span class="sj-card-title">Blackjack</span>
 <span class="sj-card-desc" title="The first capstone - a full game of blackjack, aces and all.">The first capstone - a full game of blackjack, aces and all.</span>
 <span class="sj-card-meta">day 11 - capstone</span>
 </a>
 
-<a class="sj-card" href="../learning-notes/" markdown="span">
+<a class="sj-card" href="100-days-of-python/notes/" markdown="span">
 <span class="sj-card-icon">:material-notebook-outline:</span>
 <span class="sj-card-title">Learning Notes</span>
 <span class="sj-card-desc" title="Concepts and the odd hard-won lesson from the exercises.">Concepts and the odd hard-won lesson from the exercises (AI-assisted summary).</span>

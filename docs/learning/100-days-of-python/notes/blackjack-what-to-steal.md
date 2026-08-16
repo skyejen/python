@@ -1,3 +1,6 @@
+!!! note "AI-assisted"
+    Drafted with AI while I studied - tagged so it's clear it's a study aid, not my own writing.
+
 # Blackjack (Day 11): what to steal from Angela's solution
 
 > I compared my working solution to Angela's walkthrough. I did NOT rewatch it attentively, because I'd already solved and understood it (that's the learning, not the video). These are the techniques worth carrying forward.

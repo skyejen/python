@@ -1,3 +1,6 @@
+!!! note "AI-assisted"
+    Drafted with AI while I studied - tagged so it's clear it's a study aid, not my own writing.
+
 # Loop control
 
 > The loop-control keywords: `pass`, `continue`, `break`, and `for`/`while` with `else`.

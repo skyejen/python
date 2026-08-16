@@ -3,5 +3,5 @@
 _Day 3 - odd or even, using the modulo operator._{ .sj-lead }
 
 ```python
---8<-- "day_003/introducing_the_modulo.py"
+--8<-- "docs/learning/100-days-of-python/code/day_003/introducing_the_modulo.py"
 ```
