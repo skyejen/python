@@ -104,6 +104,8 @@ nav:
           - Higher Lower: days/day-14-higher-lower-game.md
         - Day 15:
           - Coffee Machine: days/day-15-coffee-machine.md
+        - Day 16:
+          - Coffee Machine (OOP): days/day-16-coffee-machine-oop.md
       - Learning Notes:
         - learning-notes/index.md
         - Learning Notes (AI&#8209;assisted):
